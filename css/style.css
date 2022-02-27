@@ -1,0 +1,153 @@
+body{
+    background-color: #DFF6FF;
+    margin: 0;
+    text-align: center;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #2D31FA ;
+    border-width: 5px; 
+    width: 10%;
+}
+
+h1{
+    color: #051367;
+    font-family: 'Redressed', cursive;
+    font-size: 4em; /*egal cu 400%*/
+}
+
+h2{
+    color: #DFF6FF;
+}
+
+h3{
+    color: #051367;
+    clear: both;
+}
+p{
+    color: #051367;
+    font-size: 1.2em;
+}
+
+
+
+
+
+
+
+
+/* ------- CLASSES-----------------*/
+
+.top-container{
+    background-color: #DFF6FF;
+    position: relative;
+    padding-top:  100px; 
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.middle-container{
+    background-color: white;
+    position: relative;
+    padding: 10px;
+    border-radius: 15px;
+}
+.bottom-container{
+    background-color: #7cb1c5;
+    padding: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.section-title{
+    background-color: #DFF6FF;
+    border-radius: 40px;
+    padding: 10px;
+    color: #051367;
+}
+
+.profile{
+    width: 50%;
+    margin: auto;
+    height:31vh;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    width: 20%  ;
+    float: left;
+    margin-right: 20px;
+}
+
+
+.paragraf{
+text-align: start;
+padding-top: 20px ;
+}
+
+.skills{
+    width: 50%;
+    margin: auto;
+}
+
+
+.book-img{
+    width: 40%;
+    margin: 0;
+    float: left;
+}
+.wheel-img{
+    width: 15%;
+    margin: 0;
+    float: right;
+}
+.hands-img{
+    width: 25%;
+    margin: 0;
+}
+
+.euro2020{
+    width: 25%;
+    float: right;
+    border-radius: 12%;
+}
+
+.link{
+    text-decoration: none;
+    color: #051367;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+.socials{
+    width: 2%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    position: relative;
+
+}
+
+
+.contact-me{
+    position: relative;
+}
+
+
+
+/* ------- IDs-----------------*/
