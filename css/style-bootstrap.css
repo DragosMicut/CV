@@ -1,0 +1,12 @@
+
+body{
+    overflow-x: hidden;
+}
+
+.skill-item{
+    padding: 2%;
+}
+
+.section{
+    padding-bottom: 100px;
+}
