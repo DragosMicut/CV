@@ -62,6 +62,22 @@ p{
 
 }
 
+.redirect-btn{
+    text-decoration: none;
+    background-color: #051367;
+    border-radius: 10px;
+    padding: 5px;
+    color:aliceblue;
+    text-align: center;
+}
+
+.redirect-btn:hover{
+    color: #051367;
+    background-color: #2D31FA;
+    transition-duration: 0.5s;
+}
+
+
 .top-cloud{
     position: absolute;
     right: 300px;
